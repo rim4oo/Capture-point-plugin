@@ -1,0 +1,9 @@
+name: rim4oosCapturePointsPlugin
+version: '1.0'
+main: com.rim4oo.cpp.rcpp.Rim4oosCapturePointsPlugin
+api-version: '1.16'
+authors: [rim4oo]
+description:  A plugin that adds capture of points with the issuance of resources.
+website: https://github.com/rim4oo
+commands:
+  point: {}
