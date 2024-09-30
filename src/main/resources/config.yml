@@ -1,0 +1,5 @@
+MinOnline: 1
+MinimalOnlineInOpposingTeams: 2
+DelayBetweenResourceSpawns: 400
+Distance2MaintainPointWork: 24
+Distance2StartPointWork: 16
